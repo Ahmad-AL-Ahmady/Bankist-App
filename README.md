@@ -2,6 +2,20 @@
 
 ![image](https://github.com/user-attachments/assets/a66e7fb1-8788-4986-9a73-3b7d551c0e82)
 
+## Table of Contents
+
+1. [Overview](#overview)
+2. [Demo](#demo)
+3. [Features](#features)
+   - [Recent Updates](#recent-updates)
+4. [Technologies Used](#technologies-used)
+5. [Disclaimer](#disclaimer)
+6. [Getting Started](#getting-started)
+7. [Usage](#usage)
+8. [Contribution](#contribution)
+9. [Further Reading](#further-reading)
+10. [Acknowledgements](#acknowledgements)
+
 ## Overview
 
 The Bankist app is a simple web-based banking application that allows users to log in, view their account balance, transfer money, request loans, and close accounts. This project was built as part of Jonas Schmedtmann's JavaScript course and showcases various features including data manipulation, user authentication, and UI updates.
@@ -20,6 +34,13 @@ Check out the live demo of the site [Bankist App](https://bankist-alahmady.netli
 - **Loan Request**: Users can request loans if they meet certain criteria.
 - **Account Closure**: Option to close the account if the username and PIN match.
 - **Sorting**: Option to sort transactions by date.
+
+### Recent Updates
+
+- **Bankist App Data & Features Update**:
+  - Updated the app to include new account data with movement dates, currencies, and locales for a more realistic banking experience.
+  - Refactored the code responsible for the display and calculation of movements, balances, and summaries to accommodate these changes.
+  - Implemented features such as formatted date display using `Intl.DateTimeFormat()` and currency formatting with `Intl.NumberFormat()`, improving the app's localization.
 
 ## Technologies Used
 
@@ -80,4 +101,4 @@ If you’d like to contribute to this project, feel free to submit a pull reques
 
 ## Acknowledgements
 
-Special thanks to [Jonas Schmedtmann]([https://github.com/jonasschmedtmann]) for this project's course materials and inspiration.
+Special thanks to [Jonas Schmedtmann](https://github.com/jonasschmedtmann) for this project's course materials and inspiration.
