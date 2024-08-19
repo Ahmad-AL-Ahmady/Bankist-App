@@ -1,6 +1,6 @@
 # Bankist App
 
-![image](https://github.com/user-attachments/assets/a66e7fb1-8788-4986-9a73-3b7d551c0e82)
+![image](https://github.com/user-attachments/assets/8dc66129-e22f-4050-85f4-f4b6058faa26)
 
 ## Table of Contents
 
