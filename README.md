@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/a66e7fb1-8788-4986-9a73-3b7d551c0e82)
+
 # Bankist App
 
 ## Overview
