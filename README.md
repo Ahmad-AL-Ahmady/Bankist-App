@@ -80,4 +80,4 @@ If you’d like to contribute to this project, feel free to submit a pull reques
 
 ## Acknowledgements
 
-Special thanks to [Jonas Schmedtmann]((https://github.com/jonasschmedtmann)) for this project's course materials and inspiration.
+Special thanks to [Jonas Schmedtmann]([https://github.com/jonasschmedtmann]) for this project's course materials and inspiration.
