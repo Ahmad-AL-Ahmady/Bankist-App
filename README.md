@@ -69,3 +69,15 @@ The HTML and CSS code in this project were originally written by Jonas Schmedtma
 
 6. **Sort Transactions**:
    - Click the "SORT" button to toggle between sorting transactions by amount or displaying them in their original order.
+
+## Contribution
+
+If you’d like to contribute to this project, feel free to submit a pull request or open an issue.
+
+## Further Reading
+
+- [Jonas Schmedtmann's JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/)
+
+## Acknowledgements
+
+Special thanks to [Jonas Schmedtmann]([https://github.com/jonasschmedtmann]) for this project's course materials and inspiration.
